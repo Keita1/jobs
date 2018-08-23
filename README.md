@@ -5,8 +5,8 @@
 
 At the moment only Github Jobs and The Muse's Developer API are supported. This list will be added on to in the near future.
 
-* [https://jobs.github.com/api](Github Jobs API) - No API key required
-* [https://www.themuse.com/developers/api/v2](The Muse API - V2) - API key optional
+* [Github Jobs API](https://jobs.github.com/api) - No API key required
+* [The Muse API - V2](https://www.themuse.com/developers/api/v2) - API key optional
 
 Boards requiring use of a key have or will have a special method setKey() for their respective classes.
 
