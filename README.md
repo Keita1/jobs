@@ -1,4 +1,4 @@
-# jobs
+# jobs.py
 **Wrapper classes for asynchronously interacting with the APIs of job boards.**
 
 ## Supported Job Boards
