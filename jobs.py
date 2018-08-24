@@ -66,7 +66,7 @@ class GithubJobsWrapper:
         '''
         Request a particular job posting.
         '''
-        return await cls._request(cls._endpoints["job_id"] + id + ".json")
+        return await _request(cls._endpoints["job_id"] + id + ".json")
 
     @staticmethod
     async def listResults(resp):
